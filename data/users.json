@@ -96,12 +96,5 @@
         "profileImage": "assets/images/Soumik.png",
         "introduction": "2x ICPC regionalist and first runner-up at Techsurf 2022.",
         "profileLink": "https://soumik43.github.io/Portfolio/"
-    },
-    {
-        "id": "15",
-        "name": "Chandler Bing",
-        "profileImage": "assets/images/Vibhuti.jpg",
-        "introduction": "I like to make jokes",
-        "profileLink": "https://vibhi24.github.io/Personal-Website/"
     }
 ]
