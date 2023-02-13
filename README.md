@@ -11,10 +11,12 @@ npm run dev
 
 ### Application contains APIs for
 
-##### - GET 
-     * This command is used to get all users or get a specific user by ID.
-     * To get all users -> localhost:3000/users
-     * To get a specific user by ID -> localhost:3000/users/ID
+####  GET 
+This command is used to get all users or get a specific user by ID.
+##### To get all users 
+     localhost:3000/users
+##### To get a specific user by ID
+     localhost:3000/users/ID
      
  - POST 
      * This command is used to create a new user
